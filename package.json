@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Davipbr15/projectLEAD23/issues"
   },
-  "homepage": "https://github.com/Davipbr15/projectLEAD23#readme",
-  "dependencies": {
-    "nodemon": "^2.0.20"
-  }
+  "homepage": "https://github.com/Davipbr15/projectLEAD23#readme"
 }
